@@ -1,0 +1,16 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+}
+#container {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 76px;
+}
